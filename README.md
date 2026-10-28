@@ -17,4 +17,21 @@ I'm interested in understanding how machine learning and statistical models work
 **Interesting Facts**
 - I'm a cancer
 - My favorite color is blue
+- I have a starving son, who yearns for wet food
+                  
+       \`*-.                    
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+
   
