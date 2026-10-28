@@ -37,4 +37,10 @@ I'm interested in understanding how machine learning and statistical models work
    <a href="https://www.purina.com/fancy-feast">[wet food]</a>    .*' /  .*' ; .*`- +'  `*'
                `*-*   `*-*  `*-*'
 </pre>
+
+[x] PCRMs-Website
+[] ProSampler2
+[] dePCRM2
+[] Regulatory-Deep-Learning
+[] Polygenic-Risk-Score
   
