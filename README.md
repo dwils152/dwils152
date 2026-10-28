@@ -38,6 +38,7 @@ I'm interested in understanding how machine learning and statistical models work
                `*-*   `*-*  `*-*'
 </pre>
 
+** Projects I'm trying to finish **
 - [x] [PCRMs-Website](https://github.com/dwils152/PCRMs-Website)
 - [ ] [ProSampler2](https://github.com/dwils152/ProSampler2)
 - [ ] [dePCRM2](https://github.com/dwils152/dePCRM2)
