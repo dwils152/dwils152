@@ -38,9 +38,9 @@ I'm interested in understanding how machine learning and statistical models work
                `*-*   `*-*  `*-*'
 </pre>
 
-[x] PCRMs-Website
-[] ProSampler2
-[] dePCRM2
-[] Regulatory-Deep-Learning
-[] Polygenic-Risk-Score
+- [x] [PCRMs-Website](https://github.com/dwils152/PCRMs-Website)
+- [ ] [ProSampler2](https://github.com/dwils152/ProSampler2)
+- [ ] [dePCRM2](https://github.com/dwils152/dePCRM2)
+- [ ] [Regulatory-Deep-Learning](https://github.com/dwils152/Regulatory-Deep-Learning)
+- [ ] [Polygenic-Risk-Score](https://github.com/dwils152/Polygenic-Risk-Score)
   
