@@ -1,4 +1,4 @@
-*Hire me before the GPUs get more expensive.*
+**Hire me before the GPUs get more expensive.**
  
 I'm a PhD candidate in Bioinformatics and Computational Biology at UNC Charlotte, graduating at the end of 2026. My dissertation focuses on how genotype maps to phenotype. I'm open to postdoc positions as well as data science and ML roles in industry. I'm also currently open to scientific collaborations, so reach out if you have a project in mind :) Check out my pinned repositories below to see some of my work. More is coming soon!
  
